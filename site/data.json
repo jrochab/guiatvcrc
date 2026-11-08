@@ -1,0 +1,75 @@
+{
+  "updated_at": null,
+  "channels": [
+    {
+      "id": "5_mexico",
+      "name": "Canal 5 México",
+      "url": "https://www.gatotv.com/canal/5_mexico",
+      "date": null,
+      "timezone": null,
+      "programs": [],
+      "status": "pending",
+      "message": "Todavía no se ha ejecutado el extractor."
+    },
+    {
+      "id": "amc_costa_rica",
+      "name": "AMC Costa Rica",
+      "url": "https://www.gatotv.com/canal/amc_costa_rica",
+      "date": null,
+      "timezone": null,
+      "programs": [],
+      "status": "pending",
+      "message": "Todavía no se ha ejecutado el extractor."
+    },
+    {
+      "id": "antena_3",
+      "name": "Antena 3 Internacional",
+      "url": "https://www.gatotv.com/canal/antena_3",
+      "date": null,
+      "timezone": null,
+      "programs": [],
+      "status": "pending",
+      "message": "Todavía no se ha ejecutado el extractor."
+    },
+    {
+      "id": "azteca_7",
+      "name": "Azteca 7",
+      "url": "https://www.gatotv.com/canal/azteca_7",
+      "date": null,
+      "timezone": null,
+      "programs": [],
+      "status": "pending",
+      "message": "Todavía no se ha ejecutado el extractor."
+    },
+    {
+      "id": "cinecanal_costa_rica",
+      "name": "Cinecanal Costa Rica",
+      "url": "https://www.gatotv.com/canal/cinecanal_costa_rica",
+      "date": null,
+      "timezone": null,
+      "programs": [],
+      "status": "pending",
+      "message": "Todavía no se ha ejecutado el extractor."
+    },
+    {
+      "id": "espn_2_costa_rica",
+      "name": "ESPN 2 Costa Rica",
+      "url": "https://www.gatotv.com/canal/espn_2_costa_rica",
+      "date": null,
+      "timezone": null,
+      "programs": [],
+      "status": "pending",
+      "message": "Todavía no se ha ejecutado el extractor."
+    },
+    {
+      "id": "hbo_xtreme",
+      "name": "HBO Xtreme",
+      "url": "https://www.gatotv.com/canal/hbo_xtreme",
+      "date": null,
+      "timezone": null,
+      "programs": [],
+      "status": "pending",
+      "message": "Todavía no se ha ejecutado el extractor."
+    }
+  ]
+}
